@@ -1,0 +1,26 @@
+{
+  "name": "running-average",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Hugh Rawlinson <hugh@codeoclock.net>"
+  ],
+  "description": "A tiny utility to continously average (mean) data",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "average",
+    "math"
+  ],
+  "license": "MIT",
+  "homepage": "https://npmjs.org/running-average",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

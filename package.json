@@ -1,0 +1,29 @@
+{
+  "name": "running-average",
+  "version": "1.0.0",
+  "description": "A tiny utility to continuously average data",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hughrawlinson/running-average.git"
+  },
+  "keywords": [
+    "average",
+    "math"
+  ],
+  "author": "Hugh Rawlinson <hugh@codeoclock.net> (http://www.hughrawlinson.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hughrawlinson/running-average/issues"
+  },
+  "homepage": "https://github.com/hughrawlinson/running-average"
+}
