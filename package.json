@@ -4,7 +4,7 @@
   "description": "A tiny utility to continuously average data",
   "main": "index.js",
   "dependencies": {
-    "chai": "^3.2.0"
+    "chai": "^4.0.0"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
